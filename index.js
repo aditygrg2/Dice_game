@@ -6,51 +6,51 @@ a=Math.floor(a)+1;
 b=Math.floor(b)+1;
 
 if(a===1){
-    document.querySelector("#first").setAttribute("src", "images/dice1.png");
+    document.querySelector("#first").setAttribute("src", "dice1.png");
 }
 
 else if(a===2){
-    document.querySelector("#first").setAttribute("src", "images/dice2.png");
+    document.querySelector("#first").setAttribute("src", "dice2.png");
 }
 
 else if(a===3){
-    document.querySelector("#first").setAttribute("src", "images/dice3.png");
+    document.querySelector("#first").setAttribute("src", "dice3.png");
 }
 
 else if(a===4){
-    document.querySelector("#first").setAttribute("src", "images/dice4.png");
+    document.querySelector("#first").setAttribute("src", "dice4.png");
 }
 
 else if(a===5){
-    document.querySelector("#first").setAttribute("src", "images/dice5.png");
+    document.querySelector("#first").setAttribute("src", "dice5.png");
 }
 
 else if(a==6) {
-    document.querySelector("#first").setAttribute("src", "images/dice6.png");
+    document.querySelector("#first").setAttribute("src", "dice6.png");
 }
 
 if(b===1){
-    document.querySelector("#second").setAttribute("src", "images/dice1.png");
+    document.querySelector("#second").setAttribute("src", "dice1.png");
 }
 
 else if(b===2){
-    document.querySelector("#second").setAttribute("src", "images/dice2.png");
+    document.querySelector("#second").setAttribute("src", "dice2.png");
 }
 
 else if(b===3){
-    document.querySelector("#second").setAttribute("src", "images/dice3.png");
+    document.querySelector("#second").setAttribute("src", "dice3.png");
 }
 
 else if(b===4){
-    document.querySelector("#second").setAttribute("src", "images/dice4.png");
+    document.querySelector("#second").setAttribute("src", "dice4.png");
 }
 
 else if(b===5){
-    document.querySelector("#second").setAttribute("src", "images/dice5.png");
+    document.querySelector("#second").setAttribute("src", "dice5.png");
 }
 
 else if(a==6) {
-    document.querySelector("#second").setAttribute("src", "images/dice6.png");
+    document.querySelector("#second").setAttribute("src", "dice6.png");
 }
 
 if(a>b){
